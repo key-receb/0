@@ -1,4 +1,4 @@
-\"use client\";
+"use client";
 export default function KeyPanel() {
   return (
     <section className="py-20 px-6 flex justify-center">
